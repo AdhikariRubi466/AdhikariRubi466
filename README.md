@@ -1,110 +1,131 @@
-<h1 align="center">Hello, I’m Rubi👋</h1>
-<h3 align="center">Software Development • Data Analysis • Flutter Developer • IoTs </h3>
+<h1 align="center">Hi, I’m Rubi 👋</h1>
+<h3 align="center">
+Computer Engineering Student • Flutter Developer • IoT & Data Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Development-Active-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-Hands--On-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Learning-orange?style=flat-square" />
+</p>
+
 ---
 
-## 🧭 About Me
+## 🌸 About Me
 
-I am a Computer Engineering student with a strong interest in **software development, data analytics, and logical problem-solving**.  
-I enjoy working on projects that help me understand how systems behave in real-world scenarios rather than focusing only on theoretical outcomes.
+I am a **Computer Engineering student** who enjoys building systems that connect **software, data, and hardware**.  
+Rather than focusing only on theory, I prefer learning through **hands-on projects** that reflect real-world use cases.
 
-My approach is simple: understand the problem deeply, design a clear solution, and then implement it with clean and maintainable code.
+I believe good engineering starts with **clear problem understanding**, followed by simple design and clean implementation.
 
 ---
 
-## 🔎 Areas I’m Exploring
+## 🔍 What I’m Interested In
 
-- 💻 Software and application development  
-- 📊 Data analysis and insight generation  
-- 🧠 Fundamentals of machine learning and AI  
-- ⚙️ System thinking and debugging  
-- 🌱 Learning through hands-on experimentation  
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20Software%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Data%20Analysis-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️%20IoT%20Systems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20AI%20Fundamentals-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Python  
-- Java  
-- C / C++  
-- Dart
-- Micro-controllers
+### 👩‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart" />
+</p>
 
-### Frameworks & Platforms
-- Flutter  
-- Spring boot 
-- Firebase
+### 📱 Frameworks & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,spring" />
+</p>
 
-### Data & Analytics
-- Pandas  
-- NumPy  
+### ⚙️ Embedded & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+- ESP8266  
+- Microcontrollers & Sensors  
+
+### 📊 Data & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+</p>
+- Pandas, NumPy  
 - Exploratory Data Analysis (EDA)  
 
-### Tools & Environment
-- Git & GitHub  
-- Linux  
-- VS Code  
-
 ---
-
-## 📌 Featured Projects
 
 ## 📌 Featured Projects
 
 ### 🌱 Smart Irrigation System (IoT-Based)
-- Developed an **IoT-based smart irrigation system** to automate watering using real-time soil moisture data  
-- Integrated **ESP8266 microcontroller** with soil moisture sensors for continuous monitoring  
-- Stored sensor readings in a database for analysis and tracking  
-- Built a **Blynk-based mobile interface** enabling remote monitoring and irrigation control for farmers  
+- Automated irrigation using **real-time soil moisture sensing**  
+- Integrated **ESP8266** with sensors for continuous monitoring  
+- Stored data for tracking and basic analysis  
+- Built a **Blynk mobile interface** for remote control by farmers  
 
-**Tech:** ESP8266, Arduino IDE, Soil Moisture Sensors, Blynk, IoT  
+**Tech:** ESP8266, Arduino IDE, Sensors, Blynk, IoT  
 
 ---
 
 ### ✋ Hand Tracking System (Computer Vision + IoT)
-- Implemented a **real-time hand tracking system** using computer vision techniques  
-- Used **OpenCV** to detect and track hand movements through a camera feed  
-- Transmitted motion data to an **Arduino-controlled hand model** that replicated detected movements  
-- Demonstrated effective integration of **software vision algorithms with hardware control**  
+- Developed a **real-time hand tracking system** using OpenCV  
+- Detected hand movements through a camera feed  
+- Sent movement data to an **Arduino-controlled hand model**  
+- Showcased integration of **computer vision with hardware systems**  
 
-**Tech:** Python, OpenCV, Arduino, Computer Vision, IoT  
+**Tech:** Python, OpenCV, Arduino, IoT  
 
 ---
 
 ### 🎵 Music Player Mobile Application
-- Developed an **offline music player application** with a clean and intuitive user interface  
-- Implemented core playback features including play, pause, next, and previous controls  
-- Designed a **persistent mini-player** along with a full-screen “Now Playing” interface  
-- Focused on performance, usability, and local audio file management  
+- Built an **offline music player app** with a clean UI  
+- Implemented playback controls (play, pause, next, previous)  
+- Designed a **persistent mini-player** and full-screen player  
+- Focused on performance and local file handling  
 
-**Tech:** Flutter, Dart, Local Storage, Audio APIs  
+**Tech:** Flutter, Dart, Local Storage  
 
+---
 
-## 🎯 Engineering Focus
+## 🎯 Engineering Mindset
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Engineering%20Mindset-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hands--On%20Projects-Real%20World%20Learning-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-Growth%20Focused-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Core%20Strength-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hands--On%20Projects-Preferred-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning%20by%20Building-Growth-orange?style=for-the-badge" />
 </p>
 
-## 📚 Learning Focus
+---
 
-- Strengthening core software engineering fundamentals  
-- Improving data storytelling and visualization  
-- Understanding scalable system design  
-- Applying AI concepts to practical problems  
+## 📚 Currently Learning
+
+- Advanced Flutter architecture  
+- Embedded systems and microcontrollers  
+- Data visualization and storytelling  
+- Fundamentals of AI and machine learning  
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: adhikarirubi.connect@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rubi-adhikari/
-- 🧑‍💻 GitHub: https://github.com/AdhikariRubu466 
+<p>
+  <a href="mailto:adhikarirubi.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rubi-adhikari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdhikariRubu466">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > _“Consistency and clarity are more powerful than speed.”_
 
-⭐ Feel free to explore the repositories and follow along the learning journey.
+⭐ Thanks for visiting — feel free to explore the repositories.
